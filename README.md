@@ -8,12 +8,12 @@ Atualmente docente do curso de Sistemas de Informação do Campus Senador Helvid
 - **Graduação em Ciência da Computação** | UFU (1994)
 
 ## 🔬 Áreas de Atuação e Pesquisa
-Atuo principalmente no desenvolvimento e otimização de sistemas, com foco em:
+Essas são as minhas principais áreas de interesse e atuação:
 - **Computação em Nuvem & Microsserviços**
 - **Sistemas Distribuídos**
 - **Otimização**
 - **Computação Aplicada à Saúde**
-- **Tecnologias na Educação** (Computação e Matemática)
+- **Computação Aplicada à Educação** (Computação e Matemática)
 
 ## Tecnologias e Ferramentas
 ![Cloud](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge&logo=icloud)
