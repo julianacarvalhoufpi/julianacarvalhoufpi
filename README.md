@@ -1,7 +1,7 @@
-# Olá, eu sou a Dra. Juliana!
+# Olá, eu sou a professora Juliana!
 
-Atualmente docente do curso de **Sistemas de Informação** no Campus Senador Helvídio Nunes de Barros (**UFPI**) desde 2009 e docente permanente do **PPGCC** em Teresina.
----
+**Atualmente docente do curso de **Sistemas de Informação** no Campus Senador Helvídio Nunes de Barros (**UFPI**) desde 2009 e docente permanente do **PPGCC** em Teresina.
+**---
 
 ## 🎓 Formação Acadêmica
 - **Doutorado em Ciência da Computação** | UFC / EFREI-Paris (Sanduíche - 2019)
